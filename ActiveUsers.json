@@ -3,12 +3,12 @@
         "portlet-title" : "Active Users",
         "active-users-data" : [
             {
-                "name" : "antony",
+                "name" : "Ronaldo",
                 "role" : "admin"
             },
             {
-                "name" : "antony",
-                "role" : "admin"
+                "name" : "messi",
+                "role" : "Junior"
             },
             {
                 "name" : "antony",
@@ -21,6 +21,10 @@
             {
                 "name" : "William",
                 "role" : "co-worker"
+            },
+            {
+                "name" : "loren",
+                "role" : "employee"
             }
         ]
     }
