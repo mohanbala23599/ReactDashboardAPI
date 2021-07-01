@@ -1,10 +1,6 @@
 [
     {
         
-            "largeItemScreenSize" : 6,
-            "largeItemContentSize" : 12,
-            "extraLargeScreen" : 3,
-            "smallScreen" : 10,
             "portletTitle" : "Weekly Sales",
             "cardContent" : "$47K",
             "cardChipContent" : "+3.5%",
@@ -31,10 +27,6 @@
     },
     {
         
-            "largeItemScreenSize" : 6,
-            "largeItemContentSize" : 12,
-            "extraLargeScreen" : 3,
-            "smallScreen" : 10,
             "portletTitle" : "Total Order",
             "cardContent" : "58.4K",
             "cardChipContent" : "13.6%",
